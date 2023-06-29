@@ -1,0 +1,28 @@
+{
+  "name": "@dan-muller/flash-firebase",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dan-muller/FlashFirebase.git"
+  },
+  "keywords": [
+    "Firebase",
+    "React"
+  ],
+  "author": "Dan Muller",
+  "bugs": {
+    "url": "https://github.com/dan-muller/FlashFirebase/issues"
+  },
+  "homepage": "https://github.com/dan-muller/FlashFirebase#readme",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {},
+  "private": true,
+  "devDependencies": {
+    "@nx/js": "16.3.2",
+    "@nx/workspace": "16.3.2",
+    "nx": "16.3.2",
+    "nx-cloud": "^16.0.5",
+    "prettier": "^2.6.2",
+    "typescript": "~5.0.2"
+  }
+}
